@@ -5,4 +5,4 @@ Created with Jupyter Notebook IDE.
 
 Code in file:
 
-Exploring 67 years of LEGO/
+Exploring 67 years of LEGO/LEGO .ipynb
