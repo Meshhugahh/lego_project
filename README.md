@@ -1,2 +1,6 @@
 # lego_project
-Data Manipulation project with LEGO datasets.
+Data Manipulation Python project with LEGO datasets.
+
+Created with Jupyter Notebook IDE.
+
+Code in file:
